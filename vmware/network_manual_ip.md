@@ -27,6 +27,6 @@ netplan reads YAML files in lexical order. Lexicographically later files (regard
 amend (new mapping keys) or override (same mapping keys) previous ones. See
 [documentation](https://netplan.io/reference/) for more information.
 
-In our case, VMWare creates a backup of above configuration, creates a separate configuration file prefixed with
-`99-` with all necessary network configuration. In this case, above configuration file adds DNS search configuration
-to VMWare's configuration.
+In our case, VMWare creates a backup of above configuration, creates a separate configuration file called
+`99-netcfg-vmware.yaml` with all necessary network configuration. In this case, above configuration file adds DNS
+search configuration to VMWare's configuration.
