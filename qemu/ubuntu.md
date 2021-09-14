@@ -32,7 +32,7 @@ $ qemu-system-x86_64 \
     -smp 2 \
     -m 2G \
     -enable-kvm \
-    -soundhw hda \
+    -device intel-hda -device hda-duplex \
     -vga virtio \
     -nic user,hostfwd=tcp::2222-:22
 ```
