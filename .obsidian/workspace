@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "d31aedf03cf9d28b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7630ec2015d28b36",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2ffe2c5c248992e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "0514754b5a60da64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4139777a89afdfd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "112f09e59449f465",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8959deb082720a45",
+    "type": "split",
+    "children": [
+      {
+        "id": "d325b9b1f266c88b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72a0e6b84305c640",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7630ec2015d28b36",
+  "lastOpenFiles": [
+    "README.md",
+    "git/inclusion.md",
+    "git/custom_settings_per_folder.md",
+    "git/credential_helper.md"
+  ]
+}
