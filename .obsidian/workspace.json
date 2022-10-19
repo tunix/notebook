@@ -4,12 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "80ce3937d2f992de",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
+        "id": "fede9a38c653f154",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80ce3937d2f992de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian/Plugins.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -27,7 +37,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -65,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "obsidian/Plugins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -74,13 +87,27 @@
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "a5e08a9a9c4d9662",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 343.5,
     "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
   },
   "active": "80ce3937d2f992de",
   "lastOpenFiles": [
