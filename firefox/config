@@ -1,1 +1,2 @@
 browser.fullscreen.exit_on_escape=false
+mousewheel.default.delta_multiplier_y=30
