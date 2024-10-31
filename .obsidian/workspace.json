@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1319e7f1b6f620fc",
+        "id": "570f9e445ba04a99",
         "type": "tabs",
         "children": [
           {
-            "id": "6e85a31f54a782c8",
+            "id": "529dcf7fe20f8fcd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -127,11 +127,13 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e85a31f54a782c8",
+  "active": "529dcf7fe20f8fcd",
   "lastOpenFiles": [
+    "linux/Converting from OpenSSH to RSA Format.md",
     "kubernetes/config_map.md",
     "obsidian/Plugins.md",
     "mac/server_mode.md",
